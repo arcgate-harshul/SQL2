@@ -99,7 +99,12 @@ INSERT INTO Reviews (ReviewID, ProductID, CustomerID, Rating, ReviewText, Review
 (1, 1, 1, 5, 'Great product! Works perfectly.', '2023-03-12'),
 (2, 2, 2, 4, 'Good sound quality, but a bit pricey.', '2023-03-18'),
 (3, 3, 3, 3, 'Decent notebook, but paper quality could be better.', '2023-03-22');
-✅ Key Queries Solved
+
+
+
+
+
+### Key Queries Solved
 🔹 Basic
 Retrieve customer names and emails
 
